@@ -1,0 +1,47 @@
+*{
+	margin: 0;
+}
+
+body{
+	background: url(../img/27.jpg);
+	background-size: cover;
+	font-family: 'Roboto', sans-serif;
+}
+
+.container{
+	width: 400px;
+	height: 400px;
+	margin: 100px auto;
+	background: transparent;
+	display: block;
+
+}
+
+.forget{
+	text-align: center;
+	
+}
+.forget h2{
+	font-size: 30px;
+	color: black;
+	padding: 15px;
+	text-align: center;
+}
+
+.control-form{
+	background: transparent;
+	width: 300px;
+	padding: 10px 10px;
+	margin-bottom: 10px;
+	border-radius: 2px;
+}
+
+.btn{
+	transition: 0.8s ease;
+	padding: 9px 25px;
+	background-color: #4CAF50;
+	color: #5b6b0a;
+	border: none;
+	cursor: pointer;
+	margin-bottom: 10px;
+}
